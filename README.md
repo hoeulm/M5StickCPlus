@@ -4,7 +4,6 @@ Programms for M5StickC Plus LCD 240x135
 	<rect x='-60' y='-12' width='312' height='160' rx='20' ry='20' fill='#F8361B' />
 	<text text-anchor='middle' transform='translate(-50,68) rotate(90)' font-family='Arial' font-size='58' fill='darkorange' >M5</text>
 	<path stroke-width='3' stroke='black' fill='none' d='M-50,11 h36a10,10 0 0 1 10,10v90a10,10 0 0 1 -10,10h-36' />
-	<clipPath id='lcdclip'><rect x='0' y='0' width='240' height='135' /></clipPath>
 	<rect x='0' y='0' width='240' height='135' fill='black' />
 	<g id='Lcd' fill='white' stroke='white' clip-path='url(#lcdclip)' ></g>
 	<text x='-32' y= '28' onClick="document.getElementById('Console').innerHTML+='M5.BtnA.wasPressed()\n';">A</text>
