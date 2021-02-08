@@ -3,14 +3,17 @@ Programms for M5StickC Plus LCD 240x135
 
 This Programm realizes a SIMPLE Menu for the M5StickC / M5StickC Plus
 It allows the User to scroll a long the Options:
-  o Rot     Rotate the Display
-  o Covid   Show the actual Values fo Inzidenz and Deaths for GERMANY
-  o Scan    Show the available WiFis
-  o Connect Connect to the WiFis 
-  o Clock   Show A Digital Clock from RTC
-  o AClk    Show Analog Clock
-  o BMP     Show an BMP565 Picture
-  o Bat     Show Batterie Status
-  ..
+<ul>
+  <li><b>Rot</b>     Rotate the Display</li>
+  <li><b>Covid</b>   Show the actual Values fo Inzidenz and Deaths for GERMANY</li>
+  <li><b>Scan</b>   Show the available WiFis</li>
+  <li><b>Connect</b> Connect to the WiFis </li>
+  <li><b>Clock</b>   Show A Digital Clock from RTC</li>
+  <li><b>AClk</b>    Show Analog Clock</li>
+  <li><b>BMP</b>     Show an BMP565 Picture</li>
+  <li><b>Bat</b>     Show Batterie Status</li>
+  <li>..</li>
+</ul>
+  
   
   
