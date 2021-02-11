@@ -1,4 +1,5 @@
 # M5StickCPlus
+![](_img/M5StickCPlus.svg)
 Programms for M5StickC Plus LCD 240x135
 <svg width='312' viewBox='-60,-12 312,160' xmlns='http://www.w3.org/2000/svg' style='background:none;'>
 	<rect x='-60' y='-12' width='312' height='160' rx='20' ry='20' fill='#F8361B' />
