@@ -1,11 +1,11 @@
 # M5StickCPlus
 Programms for M5StickC Plus LCD 240x135<br/>
-![My Pic](M5StickCPlus.svg)<br/>
-This Programm realizes a SIMPLE Menu for the M5StickC / M5StickC Plus
+![My Pic](_img/M5StickCPlus.svg)<br/>
+This Programm realizes a SIMPLE Menu for the M5StickC / M5StickC Plus<br/>
 It allows the User to scroll a long the Options:
 <ul>
   <li><b>Rot</b>     Rotate the Display</li>
-  <li><b>Covid</b>   Show the actual Values fo Inzidenz and Deaths for GERMANY</li>
+  <li><b>Covid</b>   Show the actual Values of Inzidenz and Deaths for GERMANY</li>
   <li><b>Scan</b>   Show the available WiFis</li>
   <li><b>Connect</b> Connect to the WiFis </li>
   <li><b>Clock</b>   Show A Digital Clock from RTC</li>
