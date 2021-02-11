@@ -1,9 +1,6 @@
 # M5StickCPlus
 Programms for M5StickC Plus LCD 240x135<br/>
-![My Pic](M5StickCPlus.svg)
-![My Pic](http://m5.8266.de/_img/M5StickCPlus.svg)
-<img src="M5StickCPlus.svg" />
-<img src="" />
+![My Pic](M5StickCPlus.svg)<br/>
 This Programm realizes a SIMPLE Menu for the M5StickC / M5StickC Plus
 It allows the User to scroll a long the Options:
 <ul>
